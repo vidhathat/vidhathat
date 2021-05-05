@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vidhathat
 - 👀 I’m interested in intersection of tech,porduct and people
-- 🌱 I’m currently learning ...
 - 📫 How to reach me - drop a hi at https://twitter.com/tvidhatha
 
 <!---
